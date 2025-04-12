@@ -1,5 +1,4 @@
-const getTheTitles = function() {
-
+const getTheTitles = function(booksArray) {
 };
 
 // Do not edit below this line
